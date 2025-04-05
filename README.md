@@ -9,6 +9,8 @@
 
 [![Vinton Kahn](https://img.shields.io/badge/Vinton_Kahn-Virox_Edge-lightblue)](https://github.com/VintonKahn)
 
+<a href="https://twitter.com/vintonkahn" ><img src="https://img.shields.io/twitter/follow/VintonKahn.svg?style=social" /> </a>
+
 </div>
 <div align="left">
 </div>
