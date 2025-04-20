@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/logo.png" width="500px"/>
+<img src="assets/logo.png" href="https://vintonkahn.github.io/" width="500px"/>
 
 ---
 
