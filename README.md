@@ -1,6 +1,6 @@
 <div align="center">
-<a href="https://vintonkahn.github.io" target="_blank">
-  <img src="assets/logo.png" width="500px"/>
+<a href="https://vintonkahn.github.io" target="_blank" rel="noopener noreferrer">
+	<img src="assets/logo.png" width="500px"/>
 </a>
 
 ---
